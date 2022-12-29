@@ -1,6 +1,6 @@
 # textfield_example
 
-A new Flutter project.
+This project help's you to build simple two value Addition App with two Input field(TextField) one button.
 
 ## Getting Started
 
